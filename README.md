@@ -1,14 +1,14 @@
-#pi
+# pi
 
 Utility for compressing and searching for numbers within the digits of pi
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```bash
 Usage: ./pi [-s,--search] <infile> <search>
@@ -18,7 +18,7 @@ Usage: ./pi [-s,--search] <infile> <search>
 
 Note: This utility will only search a compressed list of pi, so it must be compressed first.
 
-##Example
+## Example
 
 Search for the first occurrence of the SSN [721-07-4426](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/PD_social_security_card.png/640px-PD_social_security_card.png):
 
